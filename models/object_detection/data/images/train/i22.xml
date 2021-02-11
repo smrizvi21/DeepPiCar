@@ -1,0 +1,62 @@
+<annotation>
+  <folder>train</folder>
+  <filename>i22</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\image set 2\train\i22.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed Limit 60</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>154</xmin>
+      <ymin>404</ymin>
+      <xmax>306</xmax>
+      <ymax>577</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Green Traffic Light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>421</xmin>
+      <ymin>243</ymin>
+      <xmax>484</xmax>
+      <ymax>404</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Yellow Traffic Light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>552</xmin>
+      <ymin>215</ymin>
+      <xmax>633</xmax>
+      <ymax>399</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>275</xmin>
+      <ymin>672</ymin>
+      <xmax>492</xmax>
+      <ymax>945</ymax>
+    </bndbox>
+  </object>
+</annotation>
