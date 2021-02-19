@@ -57,7 +57,7 @@ def create_tf_example(group, path, label_map):
     width, height = image.size
 
     filename = group.filename.encode("utf8")
-    image_format = b"jpg"
+    #image_format = b"jpg"
     # check if the image format is matching with your images.
     xmins = []
     xmaxs = []
@@ -88,7 +88,7 @@ def create_tf_example(group, path, label_map):
                 "image/filename": dataset_util.bytes_feature(filename),
                 "image/source_id": dataset_util.bytes_feature(filename),
                 "image/encoded": dataset_util.bytes_feature(encoded_jpg),
-                "image/format": dataset_util.bytes_feature(image_format),
+                #"image/format": dataset_util.bytes_feature(image_format),
                 "image/object/bbox/xmin": dataset_util.float_list_feature(xmins),
                 "image/object/bbox/xmax": dataset_util.float_list_feature(xmaxs),
                 "image/object/bbox/ymin": dataset_util.float_list_feature(ymins),
