@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>i18</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 24\train\i18.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed Limit 40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>72</xmin>
+      <ymin>21</ymin>
+      <xmax>272</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+</annotation>

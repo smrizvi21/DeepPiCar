@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>i21</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 24\train\i21.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>16</ymin>
+      <xmax>260</xmax>
+      <ymax>159</ymax>
+    </bndbox>
+  </object>
+</annotation>
