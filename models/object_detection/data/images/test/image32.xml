@@ -1,0 +1,38 @@
+<annotation>
+  <folder>test</folder>
+  <filename>image32</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\test\image32.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed Limit 60</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>217</xmin>
+      <ymin>97</ymin>
+      <xmax>285</xmax>
+      <ymax>176</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speed Limit 40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>38</xmin>
+      <ymin>94</ymin>
+      <xmax>107</xmax>
+      <ymax>177</ymax>
+    </bndbox>
+  </object>
+</annotation>

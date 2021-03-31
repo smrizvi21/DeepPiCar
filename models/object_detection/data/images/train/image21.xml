@@ -1,0 +1,62 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image21</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\train\image21.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Green Traffic Light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>196</xmin>
+      <ymin>113</ymin>
+      <xmax>226</xmax>
+      <ymax>189</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Stop Sign</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>235</xmin>
+      <ymin>119</ymin>
+      <xmax>296</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speed Limit 60</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>103</xmin>
+      <ymin>111</ymin>
+      <xmax>175</xmax>
+      <ymax>189</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>42</xmin>
+      <ymin>120</ymin>
+      <xmax>102</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+</annotation>

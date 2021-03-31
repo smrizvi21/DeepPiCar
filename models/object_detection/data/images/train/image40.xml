@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image40</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\train\image40.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed Limit 60</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>193</xmin>
+      <ymin>80</ymin>
+      <xmax>256</xmax>
+      <ymax>149</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speed Limit 40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>127</xmin>
+      <ymin>73</ymin>
+      <xmax>187</xmax>
+      <ymax>141</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Green Traffic Light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>70</ymin>
+      <xmax>118</xmax>
+      <ymax>134</ymax>
+    </bndbox>
+  </object>
+</annotation>

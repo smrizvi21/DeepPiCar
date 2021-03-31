@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image3</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\train\image3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed Limit 40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>114</ymin>
+      <xmax>282</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Stop Sign</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>81</xmin>
+      <ymin>109</ymin>
+      <xmax>163</xmax>
+      <ymax>212</ymax>
+    </bndbox>
+  </object>
+</annotation>

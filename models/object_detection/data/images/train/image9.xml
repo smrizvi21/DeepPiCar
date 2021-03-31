@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image9</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\train\image9.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Green Traffic Light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>101</xmin>
+      <ymin>88</ymin>
+      <xmax>153</xmax>
+      <ymax>227</ymax>
+    </bndbox>
+  </object>
+</annotation>

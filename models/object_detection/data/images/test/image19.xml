@@ -1,0 +1,50 @@
+<annotation>
+  <folder>test</folder>
+  <filename>image19</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\test\image19.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Stop Sign</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>198</xmin>
+      <ymin>90</ymin>
+      <xmax>265</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>92</ymin>
+      <xmax>189</xmax>
+      <ymax>162</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speed Limit 60</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>79</ymin>
+      <xmax>123</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+</annotation>

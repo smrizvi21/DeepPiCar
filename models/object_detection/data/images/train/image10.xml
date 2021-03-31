@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image10</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\train\image10.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Red Traffic Light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>79</ymin>
+      <xmax>162</xmax>
+      <ymax>140</ymax>
+    </bndbox>
+  </object>
+</annotation>

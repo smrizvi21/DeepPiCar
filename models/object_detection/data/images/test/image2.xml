@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>image2</filename>
+  <path>C:\Users\Mustafa\Desktop\WINTER\EDP\Transfer LEarning\March 31\test\image2.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Stop Sign</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>26</ymin>
+      <xmax>204</xmax>
+      <ymax>142</ymax>
+    </bndbox>
+  </object>
+</annotation>
